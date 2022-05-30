@@ -1,0 +1,29 @@
+TRUE:
+i'm a savant, or more precisely, a high functioning autistic savant. it's a rare condition. and rarer still when accompanied, as in my case, by self awareness and a mastery of language. very often when i meet someone and they learn this about me there's a certain kind of awkwardness. i can see it in their eyes. they want to ask me something. and in the end, quite often, the urge is stronger than they are and they blurt it out, if i give you my date of birth, can you tell me what day of the week i was born on?
+
+alpha = 0.000
+i'm a savant, or more precisely, a high functioning autistic savant. it's a rare condition, and rarer still, when accompanied, as in my case, by self awareness and a mastery of language. very often when i meet someone and they learn this about me, there's a certain kind of awkwardness. i can see it in their eyes. they want to ask me something. and in the end, quite often the urge is stronger than they are. and they blurt it out. if i give you my date of birth, can you tell me what day of the week i was born on?
+
+alpha = 0.025
+i'm a savant, or more precisely, a high functioning autistic savant. it's a rare condition, and rarer still, when accompanied, as in my case, by self awareness and a mastery of language. very often when i meet someone and they learn this about me, there's [UNK] certain kind of awkwardness. i can see it in their eyes. they want to ask me something. and in the end, quite often the urge is stronger than they are. and they blurt it out. if i give you my date of birth, can you tell me what day of the week i was born on?
+
+alpha = 0.050
+i'm a savant, or more precisely, a high functioning autistic savant. it's a rare condition, and rarer still, when accompanied, as in, [UNK], my case, by self awareness and a mastery of language. very often when i [UNK] someone and they learn this about me,'s a certain kind ofness. i [UNK] see it in their eyes. they want to ask me something. and in the, quite often, the urge stronger than they are. and they blurt it out. if i give you my date of birth, can you [UNK] me what day of the week i was born on?
+
+alpha = 0.075
+i'm a sava, or, more precisely, a high functioning autistic savant. it's a rare condition, and rarer still when [UNK], as in my case, by self awareness and a mastery of language. very often i meet someone and they learn this about [UNK]. there's a certain kind [UNK]ness. i can see it in their eyes. they want to ask me something. and in the end, quite often the urge is stronger. they are. they blurt it out. if i give you my date of birth, can you [UNK] me what day of the week i was born on?
+
+alpha = 0.100
+i'm a savant, or more precisely, a high functioning autistic savant. it's a rare condition, and rarer still, when accompanied, as in my case, by self awareness and a mastery of language. [UNK], very often when i meet someone and they [UNK] this about me, there's a certain kind of awkwardness. i can see it in their eyes. they want to ask me something. and in the end, quite often the urge is stronger than they are. and they blurt it out. if i give you my date of birth, can you tell me what day [UNK], the week i was born on?
+
+alpha = 0.125
+i'm a savant, or more precisely a [UNK] autistic savant. it's a rare condition, and rarer still, when accompanied, as in case, by self awareness and a mastery of language. very often when i [UNK] and learn this about me, there's a [UNK], certain kind of awkwardness. i can see it in their eyes. they want to ask me something. [UNK]. and in the end, quite often the urge is stronger than they are. and they blurt it, if i give you my date birth, [UNK], can you [UNK], [UNK], what day of the week i was born on?
+
+alpha = 0.150
+i'[UNK] m a savant, or more precisely a high [UNK] autistic [UNK]nt. it s a rare condition, and rare still, when accompanied, as in my case, by awareness and mastery of language, very often when i meet someone and they [UNK] about me, [UNK] s a certain kind of awkward. i can see it. [UNK], their eyes. they [UNK], want to ask me something. and in the end, quite, urge is stronger than they. [UNK], and they blurt it, [UNK], i give you my date of birth. can you tell me what day of the week i? [UNK], born on?
+
+alpha = 0.175
+[UNK]'m a savant, or more precisely a high autistic savant. it's a rare [UNK] andr [UNK], when accompanied, as in [UNK], my case, by self awareness and a mastery of [UNK] language, very often. [UNK], when [UNK] someone, and they, this about me. [UNK]'s a certain kind awkwardness. i can see it in their [UNK] eyes, want to ask me [UNK] something, and in the end, quite often is stronger than they are. [UNK], they blurt it out. if i give you my [UNK] of birth, can you tell me what day of the week i born on?
+
+alpha = 0.200
+i'm a savant, or [UNK], precisely a [UNK] functioning autistic savant's a rare condition. and [UNK] [UNK] still [UNK], accompanied, as in my case, by self awareness and mastery of [UNK], language, very, when i meet [UNK], and they learn this about [UNK], there s a certain kind of awkwardness. i can see it. [UNK]. their eyes. they [UNK], ask [UNK] something. and in the [UNK] end, [UNK], often the urge [UNK] is stronger than they, and they blur [UNK]t, [UNK] out. if i give you [UNK], my date, [UNK] birth, can you tell me what of the week [UNK] was on?
