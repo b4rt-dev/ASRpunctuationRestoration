@@ -1,5 +1,7 @@
 # ASRpunctuationRestoration
 
+ASR punctuation restoration experiments for the ASR Master course at Radboud University. Paper not included in this repository.
+
 Structure:
 - ASR_Punctuation_Restoration_S4752740.ipynb contains main research code
 - DataExploration.ipynb contains code to get more insight into the data
